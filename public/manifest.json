@@ -1,0 +1,20 @@
+{
+  "name": "GymData Pro",
+  "short_name": "GymData",
+  "description": "Sistema de gestión deportiva para gimnasia artística",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "education"],
+  "lang": "es-AR"
+}
